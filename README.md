@@ -1,6 +1,3 @@
-***bing chilling***
+***neo***
 
-> website dev and like js or something, 
-> also a little python
-
-yay
+> website dev and like makes games or something
