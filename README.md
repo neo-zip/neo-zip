@@ -1,3 +1,2 @@
-***neo***
-
-> website dev and like makes games or something
+# neotap.net
+i primarily code
